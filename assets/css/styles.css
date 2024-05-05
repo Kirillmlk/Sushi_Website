@@ -725,6 +725,10 @@ img {
   bottom: 3rem;
 }
 
+.active-link {
+  color: var(--first-color);
+}
+
 
 
 
